@@ -18,7 +18,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Determining whether a client will subscribe a term deposit or not using logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
 
-<img src="images/bank_image.jpeg"/>
+<img src="images/bank_image.jpg"/>
 
 - Used logistic regression to explore and make note of attributes information 
 - Use data cleaning principles to get rid of the unwanted data
