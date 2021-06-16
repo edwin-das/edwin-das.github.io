@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Predicting the trip duration of bikes rental in other to Improve the Intelligent Transport System](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/bike_image.jpg"/>
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
