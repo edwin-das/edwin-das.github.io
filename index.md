@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
 
-<img src="images/knn_image.jpg"/>
+<img src="images/knn_image.png"/>
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
