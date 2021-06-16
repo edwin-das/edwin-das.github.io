@@ -38,7 +38,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Handwriting classification and recognition of numbers using Neural Networks]
+[Handwriting classification and recognition of numbers using Deep Neural Networks]
 
 <img src="images/DNN_image.png"/>
 
