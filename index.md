@@ -40,6 +40,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Handwriting classification and recognition of numbers using Neural Networks]
 
+<img src="images/DNN_image.png"/>
+
 - Used Keras-Based to import the mnist data into your colab environment
 - Explore the data descriptive and class distribution
 - Use data preparation to normalize the pixel value of all images and the differences between pre-processed images and the normalized images 
