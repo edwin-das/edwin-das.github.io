@@ -16,9 +16,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Determining whether a client will subscribe a term deposit or not using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Determining whether a client will subscribe a term deposit or not using logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/bank_image.jpeg?raw=true"/>
 
 - Used logistic regression to explore and make note of attributes information 
 - Use data cleaning principles to get rid of the unwanted data
@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
 
-<img src="images/knee-brace-ortho.png?raw=true"/>
+<img src="images/knn_image.png?raw=true"/>
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
