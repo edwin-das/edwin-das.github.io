@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Predicting the trip duration of bikes rental in other to Improve the Intelligent Transport System](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
+[Predicting the trip duration of bikes rental in other to Improve the Intelligent Transport System](https://github.com/foday1989/foday1989.github.io/blob/master/Project/Linear%20Regression.ipynb)
 
 <img src="images/bike_image.jpg"/>
 
@@ -16,7 +16,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Determining whether a client will subscribe a term deposit or not using logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Determining whether a client will subscribe a term deposit or not using logistic classifier](https://github.com/foday1989/foday1989.github.io/blob/master/Project/Logistic%20Regression%20Project.ipynb)
 
 <img src="images/bank_image.jpg"/>
 
@@ -28,7 +28,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal]
+(https://github.com/foday1989/foday1989.github.io/blob/master/Project/KNN%20AND%20NB%20Project.ipynb)
 
 <img src="images/knn_image.png"/>
 
@@ -39,6 +40,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 [Handwriting classification and recognition of numbers using Deep Neural Networks]
+(https://github.com/foday1989/foday1989.github.io/blob/master/Project/Deep%20Neural%20Network%20Project.ipynb)
 
 <img src="images/DNN_image.png"/>
 
