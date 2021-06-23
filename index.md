@@ -33,7 +33,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knn_image.png"/>
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+- Used the K Nearest Neighbours algorithm to classify a patient's condition as     normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 
@@ -46,7 +46,17 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - Used Keras-Based to import the mnist data into your colab environment
 - Explore the data descriptive and class distribution
-- Use data preparation to normalize the pixel value of all images and the differences between pre-processed images and the normalized images 
+- Use data preparation to normalize the pixel value of all images and the       differences between pre-processed images and the normalized images 
 - Evaluate the models by using Kfolds and validate its accuracy
 - Summarize its diagnostics by using matplotlib to know the Cross Entropy Loss and Classification Accuracy
+
+
+
+[Understanding the business problem in a data company and predicting the probability of a click being fraud]
+(
+
+-Use pandas, numpy, seaborn and matplotlib to clean up the data and to plot the   graph
+-Use the classification tool to summerize class distribution and transform the data using SMOTE so that oversample can be fit into counter.
+-Import the train and test split from sklearn to help with the accurracy and the prediction
+-the accuracy of the decision tree classifier helps with our prediction being accurate 
 
