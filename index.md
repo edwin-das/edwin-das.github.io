@@ -53,7 +53,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 
 [Understanding the business problem in a data company and predicting the probability of a click being fraud]
-(
+(https://github.com/foday1989/foday1989.github.io/blob/master/Project/DT%20and%20Ensemble%20Project.ipynb)
 
 -Use pandas, numpy, seaborn and matplotlib to clean up the data and to plot the   graph
 -Use the classification tool to summerize class distribution and transform the data using SMOTE so that oversample can be fit into counter.
