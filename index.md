@@ -58,5 +58,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 -Use pandas, numpy, seaborn and matplotlib to clean up the data and to plot the   graph
 -Use the classification tool to summerize class distribution and transform the data using SMOTE so that oversample can be fit into counter.
 -Import the train and test split from sklearn to help with the accurracy and the prediction
--the accuracy of the decision tree classifier helps with our prediction being accurate 
+-Scaling of data to improve accurracy
+-Use Ensemble models like Random forest, Adaboost ensemble, Bagging classifier and GgradientBoost classifier
+-Campare the models and make a predictions 
 
